@@ -50,7 +50,7 @@ spec:
       environment {
         GIT_CREDS = credentials('github')
         GIT_REPO_URL = "github.com/hiteshgaba/rsvpapp-kustomize.git"
-        GIT_REPO_EMAIL = 'gaba.hiteh@gmail.com'
+        GIT_REPO_EMAIL = 'gaba.hitesh@gmail.com'
         GIT_REPO_BRANCH = "master"
        // Update above variables with your user details
       }
